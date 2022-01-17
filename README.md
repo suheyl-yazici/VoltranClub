@@ -1,2 +1,2 @@
 # VoltranClub
-Yapmış olduğum çalışmaya buradan ulaşabilirsiniz :) https://suheyl-yazici.github.io/VoltranClub/
+Yapmış olduğum çalışmayı buradan inceleyebilirsiniz :) https://suheyl-yazici.github.io/VoltranClub/
